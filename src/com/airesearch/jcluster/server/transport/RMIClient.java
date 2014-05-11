@@ -23,7 +23,7 @@ public class RMIClient extends RMITransport {
 	}
 	
 	/**
-	 This method used for returning the Compute object
+	 This method used for returning the Compute object.
 	 */
 	public ICompute getCompute() {
 		ICompute compute = null;
